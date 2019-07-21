@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/dom4j-1.1 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/extentreports-2.40.2 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/freemarker-2.3.23 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/jsoup-1.8.3 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/poi-3.6-20091214 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/poi-ooxml-3.6-20091214 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/poi-ooxml-schemas-3.6-20091214 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/saxon-8.7 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/SaxonLiaison - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/selenium-server-standalone-2.52.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/selenium-server-standalone-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/Project/edureka24112018/Edureka/Jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Prince/Downloads/mysql-connector-java-5.1.18-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

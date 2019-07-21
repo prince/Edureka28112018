@@ -1,10 +1,14 @@
 package test;
 
+import day3.WorkingWithChrome;
+
 public class Dat {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		WorkingWithChrome es=new WorkingWithChrome();
+		
+     es.invokeBrowser();
 	}
 
 }
